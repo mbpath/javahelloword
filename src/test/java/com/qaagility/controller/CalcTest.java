@@ -18,3 +18,6 @@ public class CalcTest {
  @Test  
     public void testCalc() {
 assertEquals("Result",9,9);
+
+    }
+}
